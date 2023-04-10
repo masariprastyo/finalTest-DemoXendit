@@ -1,0 +1,16 @@
+{
+  "name": "finaltest-eduwork",
+  "version": "1.0.0",
+  "description": "Final Project Eduwork with Cypress",
+  "main": "index.js",
+  "author": "masari",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "prettier": "^2.8.7"
+  },
+  
+  "scripts": {
+    "cy:open": "cypress open"
+  }
+}
